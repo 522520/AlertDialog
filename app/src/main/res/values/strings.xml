@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="Loginform">自定义对话框</string>
+    <string name="AndroidApp">ANDROID APP</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Signin">Sign in</string>
+</resources>
